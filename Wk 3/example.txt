@@ -1,0 +1,5 @@
+Each line in this file ends with the new line character.
+
+ There is a blank line above this line.  It should also show up
+ in the output file.
+  Make sure that your script maintains the punctuation, commas and periods, that are here.
